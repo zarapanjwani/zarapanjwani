@@ -147,7 +147,7 @@ Hi, I'm **Zara Panjvani** 👋
 Let's Connect
 
 * 📧 **Email:** `panjwanizaara@gmail.com`
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/zara-panjvani-659151374
 * 🌐 **Portfolio:** Coming Soon 🚀
 
 > *"Good software isn't just about writing code—it's about understanding the systems behind it."*
