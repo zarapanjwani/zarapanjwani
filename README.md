@@ -138,9 +138,9 @@ Hi, I'm **Zara Panjvani** 👋
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dark&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarapanjwani&theme=dark&hide_border=true" alt="Streak Stats" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zarapanjwani&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
