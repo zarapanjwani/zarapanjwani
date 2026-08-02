@@ -138,13 +138,13 @@ Hi, I'm **Zara Panjvani** 👋
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dark" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dark&hide_border=true" alt="Streak Stats" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
-
-## 🤝 Let's Connect
+Let's Connect
 
 * 📧 **Email:** `panjwanizaara@gmail.com`
 * 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
