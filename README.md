@@ -76,11 +76,6 @@ Hi, I'm **Zara Panjvani** 👋
 ### 🌉 Bridge The Gap
 *An AI-powered career readiness platform that analyzes resumes, identifies skill gaps, and provides personalized roadmaps.*
 
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/LIVE_DEMO-BUILDING-yellow?style=for-the-badge" height="22"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GITHUB-REPO-black?style=for-the-badge&logo=github" height="22"/></a>
-</p>
-
 **Key Highlights:**
 * 📄 Resume Parser & Skill Gap Analysis
 * 🎯 Custom Learning Roadmaps
@@ -93,11 +88,6 @@ Hi, I'm **Zara Panjvani** 👋
 
 ### 🛡️ VerifyHire – Job Scam Detector
 *An AI-powered platform that detects fraudulent job postings by analyzing listings and verifying companies.*
-
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/LIVE_DEMO-VISIT_APP-brightgreen?style=for-the-badge" height="22"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GITHUB-REPO-black?style=for-the-badge&logo=github" height="22"/></a>
-</p>
 
 **Key Highlights:**
 * 🔍 AI Scam Detection Engine
@@ -117,11 +107,6 @@ Hi, I'm **Zara Panjvani** 👋
 
 ### 📊 FinDash
 *A responsive financial dashboard that visualizes financial data with interactive charts and intuitive analytics.*
-
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/LIVE_DEMO-VISIT_APP-brightgreen?style=for-the-badge" height="22"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GITHUB-REPO-black?style=for-the-badge&logo=github" height="22"/></a>
-</p>
 
 **Key Highlights:**
 * 📈 Interactive Analytics & Charts
@@ -148,6 +133,5 @@ Let's Connect
 
 * 📧 **Email:** `panjwanizaara@gmail.com`
 * 💼 **LinkedIn:** https://www.linkedin.com/in/zara-panjvani-659151374
-* 🌐 **Portfolio:** Coming Soon 🚀
 
 > *"Good software isn't just about writing code—it's about understanding the systems behind it."*
