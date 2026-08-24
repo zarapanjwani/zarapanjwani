@@ -1,47 +1,78 @@
-<p data-importer="text" align="left">Hello World!!</p>
+# Hi there, I'm a Software Engineering Student 👋
 
-###
+<img src="https://komarev.com/ghpvc/?username=zarapanjwani&color=blueviolet&style=flat-square" alt="Profile Views" />
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+> Software Engineering student specializing in full-stack web development and AI-integrated systems. Passionate about architecting scalable web applications, leveraging modern machine learning pipelines, and automating workflows.
+
+---
+
+### 💻 Technical Arsenal
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | Python, Java, JavaScript, HTML, CSS |
+| **Frameworks & Engines** | Django, FastAPI, Flask, Node.js, Express.js |
+| **Libraries & Tooling** | React.js, Tailwind CSS, Bootstrap, NumPy, Pandas, Scikit-Learn, Pydantic |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Supabase |
+| **Infrastructure & Version Control** | Git, GitHub, Vercel |
+| **Core Concepts & AI** | RESTful APIs, Computer Networks, Exploratory Data Analysis (EDA), Prompt Engineering, Generative AI Workflows |
+
+---
+
+### 🚀 Featured Projects
+
+#### 1. [JobCheckr](https://github.com) | *[Demo](https://github.com)*
+* **Tech Stack:** Express.js, React.js, MongoDB, Google Gemini API
+* **Architecture:** Full-scale AI scam detector engineered to analyze complex job descriptions (Text, PDF, DOCX) for underlying fraud vectors. 
+* **Key Capabilities:** Computes automated safety scores (0–100) and generates granular red-flag analytics reports.
+
+#### 2. [Bridge the Gap](https://github.com)
+* **Tech Stack:** Django, HTML/CSS/JS, Google Gemini API
+* **Architecture:** AI-powered career enablement platform built to assist users with resume optimization and interview readiness.
+* **Key Capabilities:** Streamlines CRUD data flows via Django views, deploys Gemini API integrations for intelligent skill-gap assessments, and outputs personalized learning paths.
+
+#### 3. [Mental Health Score Predictor](https://github.com)
+* **Tech Stack:** Python, FastAPI, Scikit-Learn, HTML/CSS/JS
+* **Architecture:** Machine learning predictive interface mapping behavioral habits to overall mental health metrics.
+* **Key Capabilities:** Built and deployed an asynchronous FastAPI backend serving real-time Scikit-Learn inference models through a clean web interface.
+
+#### 4. [FinDash](https://github.com)
+* **Tech Stack:** Python, Flask, HTML, CSS, Tailwind CSS, JavaScript, MySQL
+* **Architecture:** Responsive financial intelligence dashboard designed for expense tracking and personal budgetary control.
+* **Key Capabilities:** Visualizes structured spending data using interactive charts to surface real-time budgetary patterns and actionable financial insights.
+
+---
+
+### 🏆 Competitions & Hackathons
+* **ISRO Bhartiya Antariksh Hackathon**
+* **Vibe2Ship Google × Coding Ninjas Hackathon**
+* **HackHazards (Namespace)**
+
+---
+
+### 📜 Certifications
+* **Exploratory Data Analysis (EDA) for Machine Learning** — *IBM*
+* **Google Prompt Essentials** — *Google*
+* **Introduction to Java** — *Coursera*
+* **AI Tools Data and Experience Design** — *AI CERTS (Coursera)*
+
+---
+
+### 📊 GitHub Stats & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zarapanjwani&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarapanjwani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-###
+<br/>
 
-<div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarapanjwani&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-###
+<br/>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zarapanjwani&theme=react-dark&hide_border=true&radius=8" alt="Activity Graph" />
 </div>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<p data-importer="text" align="left">Hello World!!</p>
-
-###
