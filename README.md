@@ -1,4 +1,4 @@
-# Hi there, I'm a Software Engineering Student 👋
+# Hi there, Zara👋
 
 <img src="https://komarev.com/ghpvc/?username=zarapanjwani&color=blueviolet&style=flat-square" alt="Profile Views" />
 
@@ -21,42 +21,25 @@
 
 ### 🚀 Featured Projects
 
-#### 1. [JobCheckr](https://github.com) | *[Demo](https://github.com)*
+#### 1. [JobCheckr](https://github.com/zarapanjwani/JobCheckr) | *[Demo](https://jobcheckr.vercel.app)*
 * **Tech Stack:** Express.js, React.js, MongoDB, Google Gemini API
 * **Architecture:** Full-scale AI scam detector engineered to analyze complex job descriptions (Text, PDF, DOCX) for underlying fraud vectors. 
 * **Key Capabilities:** Computes automated safety scores (0–100) and generates granular red-flag analytics reports.
 
-#### 2. [Bridge the Gap](https://github.com)
+#### 2. [Bridge the Gap](https://github.com/zarapanjwani/BTG_Django)
 * **Tech Stack:** Django, HTML/CSS/JS, Google Gemini API
 * **Architecture:** AI-powered career enablement platform built to assist users with resume optimization and interview readiness.
 * **Key Capabilities:** Streamlines CRUD data flows via Django views, deploys Gemini API integrations for intelligent skill-gap assessments, and outputs personalized learning paths.
 
-#### 3. [Mental Health Score Predictor](https://github.com)
+#### 3. [Mental Health Score Predictor](https://github.com/zarapanjwani/Mental_Health_Score)
 * **Tech Stack:** Python, FastAPI, Scikit-Learn, HTML/CSS/JS
 * **Architecture:** Machine learning predictive interface mapping behavioral habits to overall mental health metrics.
 * **Key Capabilities:** Built and deployed an asynchronous FastAPI backend serving real-time Scikit-Learn inference models through a clean web interface.
 
-#### 4. [FinDash](https://github.com)
+#### 4. [FinDash](https://github.com/zarapanjwani/Findash)
 * **Tech Stack:** Python, Flask, HTML, CSS, Tailwind CSS, JavaScript, MySQL
 * **Architecture:** Responsive financial intelligence dashboard designed for expense tracking and personal budgetary control.
 * **Key Capabilities:** Visualizes structured spending data using interactive charts to surface real-time budgetary patterns and actionable financial insights.
-
----
-
-### 🏆 Competitions & Hackathons
-* **ISRO Bhartiya Antariksh Hackathon**
-* **Vibe2Ship Google × Coding Ninjas Hackathon**
-* **HackHazards (Namespace)**
-
----
-
-### 📜 Certifications
-* **Exploratory Data Analysis (EDA) for Machine Learning** — *IBM*
-* **Google Prompt Essentials** — *Google*
-* **Introduction to Java** — *Coursera*
-* **AI Tools Data and Experience Design** — *AI CERTS (Coursera)*
-
----
 
 ### 📊 GitHub Stats & Metrics
 
