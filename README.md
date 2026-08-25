@@ -1,53 +1,225 @@
-# Hi there, Zara👋
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=zarapanjwani&color=blueviolet&style=flat-square" alt="Profile Views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Hey!%20I'm%20Zara%20👋&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Engineering%20Student%20•%20Full-Stack%20•%20AI%20Integrations&descAlignY=58&descSize=18" width="100%" />
 
-> Software Engineering student specializing in full-stack web development and AI-integrated systems. Passionate about architecting scalable web applications, leveraging modern machine learning pipelines, and automating workflows.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Web+Applications;AI-Powered+SaaS+Architectures;Generative+AI+%7C+Gemini+API;Python+%7C+Django+%7C+React+%7C+Node.js;Always+Learning+How+Things+Work+Internally" />
+
+<br>
+
+</div>
 
 ---
 
-### 💻 Technical Arsenal
+# 👨🏻‍💻 About Me
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | Python, Java, JavaScript, HTML, CSS |
-| **Frameworks & Engines** | Django, FastAPI, Flask, Node.js, Express.js |
-| **Libraries & Tooling** | React.js, Tailwind CSS, Bootstrap, NumPy, Pandas, Scikit-Learn, Pydantic |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Supabase |
-| **Infrastructure & Version Control** | Git, GitHub, Vercel |
-| **Core Concepts & AI** | RESTful APIs, Computer Networks, Exploratory Data Analysis (EDA), Prompt Engineering, Generative AI Workflows |
+Hi, I'm Zara 👋
+
+Software Engineering student specializing in full-stack web development and AI-integrated systems. Passionate about architecting scalable web applications, leveraging modern machine learning pipelines, and automating workflows.
 
 ---
 
-### 🚀 Featured Projects
+# 🚀 Currently Working On
 
-#### 1. [JobCheckr](https://github.com/zarapanjwani/JobCheckr) | *[Demo](https://jobcheckr.vercel.app)*
-* **Tech Stack:** Express.js, React.js, MongoDB, Google Gemini API
-* **Architecture:** Full-scale AI scam detector engineered to analyze complex job descriptions (Text, PDF, DOCX) for underlying fraud vectors. 
-* **Key Capabilities:** Computes automated safety scores (0–100) and generates granular red-flag analytics reports.
+- 💻 Building production-grade web applications using the MERN stack, Django, and FastAPI
+- 🤖 Integrating generative AI pipelines and Large Language Models (Gemini API) into real-world applications
+- 📊 Exploring data science, exploratory data analysis (EDA), and machine learning models
+- 🚀 Writing clean, modular, and maintainable software architectures
 
-#### 2. [Bridge the Gap](https://github.com/zarapanjwani/BTG_Django)
-* **Tech Stack:** Django, HTML/CSS/JS, Google Gemini API
-* **Architecture:** AI-powered career enablement platform built to assist users with resume optimization and interview readiness.
-* **Key Capabilities:** Streamlines CRUD data flows via Django views, deploys Gemini API integrations for intelligent skill-gap assessments, and outputs personalized learning paths.
+---
 
-#### 3. [Mental Health Score Predictor](https://github.com/zarapanjwani/Mental_Health_Score)
-* **Tech Stack:** Python, FastAPI, Scikit-Learn, HTML/CSS/JS
-* **Architecture:** Machine learning predictive interface mapping behavioral habits to overall mental health metrics.
-* **Key Capabilities:** Built and deployed an asynchronous FastAPI backend serving real-time Scikit-Learn inference models through a clean web interface.
+# 🛠 Tech Stack
 
-#### 4. [FinDash](https://github.com/zarapanjwani/Findash)
-* **Tech Stack:** Python, Flask, HTML, CSS, Tailwind CSS, JavaScript, MySQL
-* **Architecture:** Responsive financial intelligence dashboard designed for expense tracking and personal budgetary control.
-* **Key Capabilities:** Visualizes structured spending data using interactive charts to surface real-time budgetary patterns and actionable financial insights.
+### Languages
 
-### 📊 GitHub Stats & Metrics
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,nodejs,express" />
+</p>
+
+### Styling & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,numpy,pandas,sklearn" />
+</p>
+
+### Database & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,supabase,vercel" />
+</p>
+
+### Dev Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🛡️ JobCheckr
+
+> *AI-Powered Job Scam Detector*
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Coming_Soon-0ea5e9?style=for-the-badge)](https://jobcheckr.vercel.app)
+[![Repository](https://img.shields.io/badge/📦_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/zarapanjwani/JobCheckr)
+
+A full-scale AI scam detector engineered to analyze complex job descriptions (Text, PDF, DOCX) for underlying fraud vectors.
+
+### Key Features
+
+- 📄 Multi-format parsing (Text, PDF, DOCX)
+- 🔍 AI-driven fraud risk analysis
+- 📊 Automated safety scores (0–100)
+- 🚩 Granular red-flag analytics reports
+
+**Tech Stack**
+
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚀 Bridge the Gap
+
+> *AI Career Enablement Platform*
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Coming_Soon-10b981?style=for-the-badge)](#)
+[![Repository](https://img.shields.io/badge/📦_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/zarapanjwani/BTG_Django)
+
+An AI-powered career platform built to assist users with resume optimization, skill-gap analysis, and interview preparation.
+
+### Key Features
+
+- 📑 Resume analysis & feedback
+- 🎯 Intelligent skill-gap assessments
+- 🛣️ Personalized learning paths
+- ⚙️ Robust Django CRUD views
+
+**Tech Stack**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🧠 Mental Health Score Predictor
+
+> *Machine Learning Predictive Interface*
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Coming_Soon-22c55e?style=for-the-badge)](#)
+[![Repository](https://img.shields.io/badge/📦_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/zarapanjwani/Mental_Health_Score)
+
+A machine learning web interface mapping behavioral habits to overall mental health metrics via real-time inference.
+
+### Key Features
+
+- 🤖 Scikit-Learn predictive modeling
+- ⚡ Asynchronous FastAPI backend
+- 🌐 Real-time web UI inference
+- 📊 Behavioral metrics evaluation
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📊 FinDash
+
+> *Financial Intelligence Dashboard*
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Coming_Soon-f59e0b?style=for-the-badge)](#)
+[![Repository](https://img.shields.io/badge/📦_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/zarapanjwani/Findash)
+
+A responsive financial intelligence dashboard designed for expense tracking and personal budgetary control.
+
+### Key Features
+
+- 💸 Expense tracking & budgeting
+- 📈 Interactive data visualization
+- 🗄️ MySQL data management
+- 📱 Responsive Tailwind layout
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+
+</td>
+
+</tr>
+</table>
+
+
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zarapanjwani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarapanjwani&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=zarapanjwani&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://arranger-graph.vercel.app/users/zarapanjwani?theme=react-dark&hide_border=true" alt="Activity Graph"/>
+
+</p>
+
+
+# 🤝 Let's Connect
+
+- 💼 **GitHub:** https://github.com/zarapanjwani
+
+---
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarapanjwani&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+### 💡 *"Good software isn't just about writing code—it's about understanding the systems behind it."*
+
+⭐ Thanks for visiting my profile!
+
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://arranger-graph.vercel.app/users/zarapanjwani?theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2C5364,50:203A43,100:0F2027"/>
