@@ -181,11 +181,22 @@ A responsive financial intelligence dashboard designed for expense tracking and 
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zarapanjwani&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarapanjwani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
-<img src="https://arranger-graph.vercel.app/users/zarapanjwani?theme=react-dark&hide_border=true" alt="Activity Graph"/>
+<br/>
 
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarapanjwani&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zarapanjwani&theme=react-dark&hide_border=true&radius=8" alt="Activity Graph" />
+</div>
 
 
 # 🤝 Let's Connect
