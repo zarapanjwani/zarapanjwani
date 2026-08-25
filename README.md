@@ -49,5 +49,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zarapanjwani&theme=react-dark&hide_border=true&radius=8" alt="Activity Graph" />
+  <img src="https://arranger-graph.vercel.app/users/zarapanjwani?theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
