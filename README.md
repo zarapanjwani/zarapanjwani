@@ -71,7 +71,7 @@ Software Engineering student specializing in full-stack web development and AI-i
 
 > *AI-Powered Job Scam Detector*
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Coming_Soon-0ea5e9?style=for-the-badge)](https://jobcheckr.vercel.app)
+[![Live Demo](https://img.shields.io/badge/)](https://jobcheckr.vercel.app)
 [![Repository](https://img.shields.io/badge/📦_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/zarapanjwani/JobCheckr)
 
 A full-scale AI scam detector engineered to analyze complex job descriptions (Text, PDF, DOCX) for underlying fraud vectors.
@@ -178,26 +178,6 @@ A responsive financial intelligence dashboard designed for expense tracking and 
 
 </tr>
 </table>
-
-
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zarapanjwani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarapanjwani&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zarapanjwani&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
