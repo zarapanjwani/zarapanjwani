@@ -181,10 +181,6 @@ A responsive financial intelligence dashboard designed for expense tracking and 
 
 # 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zarapanjwani&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarapanjwani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 <br/>
 
