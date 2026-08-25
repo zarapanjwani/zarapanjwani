@@ -44,7 +44,7 @@ Software Engineering student specializing in full-stack web development and AI-i
 ### Styling & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,numpy,pandas,sklearn" />
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
 </p>
 
 ### Database & Cloud
